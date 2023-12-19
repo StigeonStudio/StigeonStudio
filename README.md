@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stijn Bouckaert</h1>
+<h1 align="center">Hi 👋, I'm Stijn (Stigeon)</h1>
 <h3 align="center">A Belgian developer that loves learning new things</h3>
 
 - 🌱 I’m currently learning **JavaFX**
